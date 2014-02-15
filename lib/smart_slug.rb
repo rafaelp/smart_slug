@@ -24,7 +24,6 @@ class SmartSlug
 
     def slug
       string = @original.dup
-      string.downcase!
       string.strip!
       string.gsub!(/[\/\.\:\@º]/,   '')
       string.gsub!(/[àáâãäåāă]/,    'a')

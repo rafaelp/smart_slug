@@ -16,12 +16,12 @@ And then execute:
 require 'smart_slug'
 
 slug = SmartSlug.new("   Coração  ")
- => #<SmartSlug:0x007ff0c20907a8 @original="   Coração  ", @slug="coracao">
+ => #<SmartSlug:0x007ff0c20907a8 @original="   Coração  ", @slug="Coracao">
 
 slug.to_s
- => "coracao"
+ => "Coracao"
 
-slug == 'coracao'
+slug == 'Coracao'
  => true
 ```
 
