@@ -1,4 +1,6 @@
-# Smart Slug [![Build Status](https://travis-ci.org/rafaelp/smart_slug.png?v=1)](https://travis-ci.org/rafaelp/smart_slug)
+# Smart Slug
+
+[![Build Status](https://travis-ci.org/rafaelp/smart_slug.png)](https://travis-ci.org/rafaelp/smart_slug)
 
 ## Installation
 
