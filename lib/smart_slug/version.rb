@@ -1,3 +1,3 @@
-module SmartSlug
+class SmartSlug
   VERSION = "0.0.1"
 end
